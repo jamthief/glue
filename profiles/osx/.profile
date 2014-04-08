@@ -1,3 +1,10 @@
+# Warning: this file is intended to PREFACE ~/.profile, NOT REPLACE it.
+# Include it at the top of the real ~/.profile, e.g.
+#
+#     . /path/to/profiles/osx/.profile
+#
+# and then override as necessary.
+
 # Increase the bash history file size
 HISTFILESIZE=1000000000
 HISTSIZE=1000000
